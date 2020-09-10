@@ -1,0 +1,17 @@
+.listItem {
+  display: flex;
+}
+
+.listItemP {
+  margin-right: 10px;
+}
+
+.listItem:not(:last-child) {
+  margin-bottom: 5px;
+}
+
+.listItemButton {
+  height: 25px;
+  border-radius: 4px;
+  padding: 0 4px;
+}

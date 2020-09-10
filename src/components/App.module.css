@@ -1,0 +1,13 @@
+.sectionTitle {
+  margin-bottom: 20px;
+}
+
+.light {
+  color: black;
+  background-color: white;
+}
+
+.dark {
+  color: white;
+  background-color: black;
+}
