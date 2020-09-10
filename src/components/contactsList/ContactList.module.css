@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.contactList {
+  list-style-type: circle;
+  margin: 0 auto;
+  width: 500px;
+  padding: 20px;
+  padding-left: 50px;
+  box-shadow: 0 0 10px rgba(219, 12, 12, 0);
+  border-radius: 5px;
+}
